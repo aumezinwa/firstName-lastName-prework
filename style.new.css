@@ -1,0 +1,26 @@
+body {
+    background-image: url(lighting.jpg);
+    margin: 0;
+    line-height: 1.5;
+    text-transform: uppercase;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgba(2, 0, 5, 0.897);
+}
+h1 { align-content: center;
+    text-align: right;
+    text-align: center;
+    font-size: 100px;    
+    color: rgb(253, 34, 155);
+    font-style: italic;
+    font-weight: bold;
+    line-height: 250px;
+}
+
+h2 {
+    float: center;
+    font-size: 50px;
+    line-height: 430px;
+    text-align: center;
+    color: lightsalmon;
+}
